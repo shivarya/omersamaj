@@ -1,0 +1,304 @@
+2014/10/01 09:31:25 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:32:08 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:32:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:32:13 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:32:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:33:31 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in C:\xampp\htdocs\yii\framework\gii\GiiModule.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=gii
+---
+2014/10/01 09:40:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('message')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/omer/index.php?r=message
+HTTP_REFERER=http://192.168.0.50/omer/index.php?r=gii/controller/index
+---
+2014/10/04 11:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/project
+---
+2014/10/04 11:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project
+---
+2014/10/04 11:47:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project/admin
+---
+2014/10/04 11:47:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/project/admin
+---
+2014/10/04 11:47:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project/admin
+---
+2014/10/04 11:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project/index
+---
+2014/10/04 11:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/project/index
+---
+2014/10/04 11:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project/index
+---
+2014/10/04 14:18:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "issue".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('issue')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/issue
+---
+2014/10/04 14:18:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/project
+---
+2014/10/04 14:18:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/project
+---
+2014/10/04 14:19:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/default/login
+---
+2014/10/04 14:19:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/default/index
+---
+2014/10/04 14:19:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/crud/index
+---
+2014/10/04 14:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/crud/index
+---
+2014/10/04 14:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jui/js/jquery-ui.min.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jui/js/jquery-ui.min.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jui/js/jquery-ui.min.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jui/js/jquery-ui.min.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jui/js/jquery-ui.min.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jui/js/jquery-ui.min.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/model/index
+---
+2014/10/04 14:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/crud/index
+---
+2014/10/04 14:21:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/crud/index
+---
+2014/10/04 14:22:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/gii/crud/index
+---
+2014/10/04 14:22:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.js
+HTTP_REFERER=http://192.168.0.50/omer/issue
+---
+2014/10/04 14:22:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/a93305e7/jquery.ba-bbq.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/a93305e7...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\omer\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/omer/assets/a93305e7/jquery.ba-bbq.js
+HTTP_REFERER=http://192.168.0.50/omer/issue
+---
